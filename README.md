@@ -17,3 +17,7 @@ This Java application creates a simple digital watch using the Swing GUI library
 4. The digital watch GUI will open, displaying the current time.
 
 **Note:** This project is a simple demonstration of creating a digital watch using Java Swing and threading. You can use it as a starting point to build more complex applications or enhance the user interface and functionality of the digital watch. Feel free to customize and extend the code as needed for your own projects.
+
+
+https://github.com/Dhruvabhat24/Digital-watch/assets/122305929/e77a10b3-ac63-4e63-b4e7-612ce0bb199a
+
